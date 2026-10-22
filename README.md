@@ -6,12 +6,9 @@
   <!-- CON RẮN SĂN MỒI ĂN Ô XANH -->
   <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-  <br/><br/>
-
-  <!-- HUY HIỆU VIỆT NAM & THỐNG KÊ -->
+  <!-- HUY HIỆU VIỆT NAM & THỐNG KÊ (ĐÃ XÓA CÁI VIEWS BỊ LỖI) -->
   <p>
     <img src="https://img.shields.io/badge/Made%20in-Vietnam%20%F0%9F%87%BB%F0%9F%87%B3-DA251D?style=for-the-badge&labelColor=FFFF00" alt="Vietnam" />
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhhd-z&count_bg=%23E94560&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=L%C6%B0%E1%BB%A3t+Xem&edge_flat=false" alt="Views" />
     <img src="https://img.shields.io/github/followers/hhd-z?label=Followers&style=for-the-badge&color=ff69b4" alt="followers" />
     <img src="https://img.shields.io/github/stars/hhd-z?affiliations=OWNER&style=for-the-badge&color=yellow" alt="stars" />
   </p>
@@ -35,20 +32,9 @@
 ### 📊 Thống Kê Hoạt Động
 
 <div align="center">
-
-  <!-- BẢNG 1: NGÔN NGỮ THƯỜNG SỬ DỤNG (TIẾNG VIỆT + CÓ SỐ %) -->
-  <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhd-z&layout=compact&langs_count=6&theme=dracula&locale=vi&custom_title=Ng%C3%B4n%20Ng%E1%BB%AF%20Th%C6%B0%E1%BB%9Dng%20S%E1%BB%AD%20D%E1%BB%A5ng" alt="Top Languages" />
-
-  <br/><br/>
-
-  <!-- BẢNG 2: THỐNG KÊ GITHUB (TIẾNG VIỆT + CHẤM ĐIỂM HẠNG) -->
-  <img width="95%" src="https://github-readme-stats.vercel.app/api?username=hhd-z&show_icons=true&theme=dracula&locale=vi&custom_title=Th%E1%BB%91ng%20K%C3%AA%20GitHub%20C%E1%BB%A7a%20Kriz%20Neo" alt="GitHub Stats" />
-
-  <br/><br/>
-
-  <!-- BẢNG 3: CHUỖI ĐÓNG GÓP (TIẾNG VIỆT + CÓ NGÀY THAM GIA) -->
-  <img width="95%" src="https://streak-stats.demolab.com?user=hhd-z&theme=dracula&locale=vi" alt="GitHub Streak" />
-
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhd-z&layout=compact&langs_count=6&theme=dracula&locale=vi&card_width=445&custom_title=Ng%C3%B4n%20Ng%E1%BB%AF%20Th%C6%B0%E1%BB%9Dng%20S%E1%BB%AD%20D%E1%BB%A5ng" alt="Top Languages" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hhd-z&show_icons=true&theme=dracula&locale=vi&card_width=445&custom_title=Th%E1%BB%91ng%20K%C3%AA%20GitHub" alt="GitHub Stats" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=hhd-z&theme=dracula&locale=vi&card_width=445" alt="GitHub Streak" />
 </div>
 
 ---
