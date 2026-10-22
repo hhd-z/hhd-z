@@ -29,7 +29,6 @@
 * 🔥 **Đam mê & Dự án:**
   * Tùy biến & tối ưu hóa hệ thống Android (Custom ROM, Kernel, Root Modules)
   * Xây dựng và phát triển ứng dụng Web với HTML5, CSS3, JavaScript
-  * Vọc vạch công nghệ, Mod bàn phím cơ ⌨️ & Gaming 🎮
 
 ---
 
