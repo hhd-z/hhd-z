@@ -33,7 +33,7 @@
 
 <div align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhd-z&layout=compact&langs_count=6&theme=dracula&locale=vi&card_width=445&custom_title=Ng%C3%B4n%20Ng%E1%BB%AF%20Th%C6%B0%E1%BB%9Dng%20S%E1%BB%AD%20D%E1%BB%A5ng" alt="Top Languages" />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hhd-z&show_icons=true&theme=dracula&locale=vi&card_width=445&custom_title=Th%E1%BB%91ng%20K%C3%AA%20GitHub" alt="GitHub Stats" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hhd-z&theme=dracula" alt="GitHub Stats" />
   <img width="100%" src="https://streak-stats.demolab.com?user=hhd-z&theme=dracula&locale=vi&card_width=445" alt="GitHub Streak" />
 </div>
 
