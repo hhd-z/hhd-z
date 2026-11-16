@@ -1,5 +1,5 @@
 {
- "key": "bde04e61",
+ "key": "fac230e2",
  "stars": 1,
  "contributions": 92,
  "repos": 5,
@@ -89,9 +89,13 @@
    {
     "c": 14,
     "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
     "today": true
    },
-   null,
    null,
    null,
    null,
